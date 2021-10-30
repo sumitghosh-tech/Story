@@ -1,1 +1,2 @@
 It is chapter2.
+Now I am editing this file in anotherbrancch branch.
