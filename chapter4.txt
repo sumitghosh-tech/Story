@@ -1,0 +1,2 @@
+I am creating this file in master branch.
+Now it is time to merge anotherbrancch with master branch.
